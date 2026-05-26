@@ -57,18 +57,20 @@ UniGen Backend는 일반 사용자와 시니어 사용자를 함께 고려한 Du
 
 ---
 
-## 5. Backend Architecture
+## 5. UX / System Flow
 
 <p align="center">
-  <img src="./assets/unigen-architecture.png" width="88%" alt="UniGen 백엔드 구조" />
+  <img src="./assets/unigen-architecture.png" width="88%" alt="UniGen UX 및 시스템 플로우" />
 </p>
 
+위 이미지는 백엔드 내부 아키텍처가 아니라, 사용자의 서비스 이동 흐름과 각 화면이 어떤 API 그룹과 연결되는지 보여주는 전체 시스템 플로우입니다.
+
 ```text
-Client
-  → Express Router
-  → Controller
-  → Middleware / Service
-  → MySQL / AWS S3 / OpenAI API
+Welcome Page
+  → 로그인 / 회원가입
+  → 일반 모드 또는 시니어 모드 선택
+  → 홈 / 탐색 / 업로드 / 프로필 / 글쓰기
+  → users / auth / stories / posts / senior API 연동
 ```
 
 ---
