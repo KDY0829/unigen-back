@@ -2,11 +2,14 @@
 
 > UniGen SNS 플랫폼의 인증, 피드, 이미지 업로드, AI 콘텐츠 생성을 처리하는 Node.js 백엔드
 
-<p align="center">
-  <a href="https://www.notion.so/325441f66d78810f809ec11f775eb92c?pvs=1">
-    <img src="https://img.shields.io/badge/Notion%20Project%20Page-View%20Details-7C3AED?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Project Page" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="680">
+      <a href="https://www.notion.so/325441f66d78810f809ec11f775eb92c?pvs=1"><b>📘 Notion Project Page</b></a><br />
+      <sub>프로젝트 상세 문서 · 구현 과정 · 역할 정리 보기</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="./assets/unigen-dual-mode.png" width="88%" alt="UniGen 서비스 화면" />
