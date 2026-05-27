@@ -11,11 +11,12 @@
   </tr>
 </table>
 
+## 🎬 Demo Video
+
+https://github.com/user-attachments/assets/c471e3c1-24fe-4491-af65-e42c4fac53bb
+
 <p align="center">
-  <a href="https://github.com/KDY0829/unigen-back/raw/master/assets/Unigen.mp4">
-    <img src="./assets/unigen-dual-mode.png" width="88%" alt="UniGen 실행 영상" />
-  </a><br />
-  <sub>▶ 이미지를 클릭하면 실행 영상을 볼 수 있습니다.</sub>
+  <img src="./assets/unigen-dual-mode.png" width="88%" alt="UniGen 서비스 화면" />
 </p>
 
 ## ✨ Highlights
